@@ -11,4 +11,5 @@ As stated above, the main purpose is to provide simple examples for git training
 ##Deployment
 
 ##How To Contribute
+please fork this repository and then issue pull request for reviw
 2014 Git.Training
