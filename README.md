@@ -11,3 +11,4 @@ As stated above, the main purpose is to provide simple examples for git training
 ##Deployment
 
 ##How To Contribute
+2014 Git.Training
